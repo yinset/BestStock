@@ -1,0 +1,4 @@
+interface:
+  display_name: "伯克希尔股东信2020-2021公司分析"
+  short_description: "用伯克希尔2020-2021年股东信框架分析公司长期价值"
+  default_prompt: "Use $berkshire-hathaway-shareholder-letters-2020-2021 用伯克希尔2020-2021年股东信方法分析这家公司。"

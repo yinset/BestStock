@@ -1,0 +1,4 @@
+interface:
+  display_name: "伯克希尔股东信2014-2015公司分析"
+  short_description: "用2014-2015年伯克希尔股东信框架分析公司价值"
+  default_prompt: "Use $berkshire-hathaway-shareholder-letters-2014-2015 用2014-2015年伯克希尔股东信方法分析这家公司。"
