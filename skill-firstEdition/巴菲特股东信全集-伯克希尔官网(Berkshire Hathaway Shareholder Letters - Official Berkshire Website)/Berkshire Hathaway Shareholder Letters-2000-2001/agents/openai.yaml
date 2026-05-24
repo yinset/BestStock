@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "巴菲特公司分析2000-2001"
+  short_description: "基于伯克希尔2000-2001年股东信的公司分析方法论"
+  default_prompt: "Use $buffett-2000-2001-company-analysis 用伯克希尔2000-2001年股东信方法分析这家公司。"

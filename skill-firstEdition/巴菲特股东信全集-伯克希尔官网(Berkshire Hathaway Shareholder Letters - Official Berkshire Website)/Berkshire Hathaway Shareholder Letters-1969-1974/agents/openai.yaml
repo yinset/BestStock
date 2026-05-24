@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用巴菲特1969至1974年信框架分析业务质量与内含价值"
+  default_prompt: "Use $buffett-company-analysis 用巴菲特1969至1974年信框架分析这家公司。"

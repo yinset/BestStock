@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特1997公司分析"
+  short_description: "用伯克希尔1997问答框架分析公司与股票"
+  default_prompt: "Use $buffett-1997-company-analysis to analyze a company using the distilled 1997 Berkshire meeting framework."

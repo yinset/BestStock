@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特1999公司分析"
+  short_description: "用1999年伯克希尔股东大会框架拆解公司质量、估值与风险"
+  default_prompt: "Use $buffett-1999-company-analysis to analyze this company using the 1999 Berkshire meeting framework."

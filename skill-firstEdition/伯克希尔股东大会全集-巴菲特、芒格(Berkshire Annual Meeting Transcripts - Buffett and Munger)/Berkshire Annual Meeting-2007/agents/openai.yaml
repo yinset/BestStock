@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2007年伯克希尔股东大会方法分析公司质量与价值"
+  default_prompt: "使用 $buffett-company-analysis，根据2007年伯克希尔股东大会提炼的方法分析这家公司。"

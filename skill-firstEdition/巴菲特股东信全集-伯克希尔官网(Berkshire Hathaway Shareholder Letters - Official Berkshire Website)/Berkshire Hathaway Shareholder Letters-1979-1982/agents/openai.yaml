@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析1979-1982"
+  short_description: "用伯克希尔1979-1982年股东信框架分析公司真实价值"
+  default_prompt: "Use $buffett-1979-1982-company-analysis 用伯克希尔1979-1982年股东信方法分析这家公司。"

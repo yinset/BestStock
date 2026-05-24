@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用伯克希尔2015年会框架拆解生意、资本与长期价值"
+  default_prompt: "Use $buffett-company-analysis 用2015年伯克希尔年会方法分析这家公司。"

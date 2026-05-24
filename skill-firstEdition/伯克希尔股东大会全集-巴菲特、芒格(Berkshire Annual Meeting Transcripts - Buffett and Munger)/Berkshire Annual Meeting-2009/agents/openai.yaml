@@ -1,0 +1,7 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "按伯克希尔2009年会框架评估公司质量、估值与风险"
+  default_prompt: "Use $buffett-company-analysis to analyze this company like Buffett and Munger from the 2009 Berkshire meeting."
+
+policy:
+  allow_implicit_invocation: true

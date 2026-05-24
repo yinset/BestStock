@@ -1,0 +1,3 @@
+display_name: 巴菲特2019公司分析
+short_description: 用2019年伯克希尔股东大会框架拆解公司质量价格与资本配置
+default_prompt: 使用 $buffett-2019-company-analysis 按 2019 年伯克希尔股东大会的方法分析这家公司。

@@ -1,0 +1,3 @@
+display_name: 巴菲特公司分析
+short_description: 用伯克希尔2020年会框架评估企业韧性、长期价值和价格
+default_prompt: 请用 2020 年伯克希尔年会提炼出的巴菲特方法分析这家公司。

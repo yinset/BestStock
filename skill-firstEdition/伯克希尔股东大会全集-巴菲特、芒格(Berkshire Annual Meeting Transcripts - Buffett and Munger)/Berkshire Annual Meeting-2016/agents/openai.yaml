@@ -1,0 +1,5 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2016年伯克希尔年会框架分析公司质量"
+  default_prompt: "Use $buffett-company-analysis to analyze this company using Buffett and Munger's 2016 Berkshire meeting framework."
+

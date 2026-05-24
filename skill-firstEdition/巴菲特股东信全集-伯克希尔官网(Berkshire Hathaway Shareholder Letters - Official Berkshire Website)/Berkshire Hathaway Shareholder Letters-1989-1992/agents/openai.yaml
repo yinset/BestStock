@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析1989-1992"
+  short_description: "基于伯克希尔1989-1992年股东信的公司分析方法论"
+  default_prompt: "Use $buffett-1989-1992-company-analysis 用伯克希尔1989-1992年股东信方法分析这家公司。"

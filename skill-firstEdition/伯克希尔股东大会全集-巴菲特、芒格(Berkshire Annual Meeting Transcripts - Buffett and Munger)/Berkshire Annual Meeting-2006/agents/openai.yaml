@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2006年伯克希尔年会框架拆解公司质量、管理层与估值"
+  default_prompt: "使用 $buffett-company-analysis 按巴菲特和芒格2006年会框架分析这家公司。"

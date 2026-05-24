@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "基于伯克希尔2021年会提炼公司长期价值分析完整框架"
+  default_prompt: "Use $buffett-company-analysis 用伯克希尔2021年会框架分析这家公司。"

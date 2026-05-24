@@ -1,0 +1,4 @@
+interface:
+  display_name: "2013伯克希尔公司分析"
+  short_description: "用2013年伯克希尔股东大会问答框架分析企业质量与估值"
+  default_prompt: "使用 $berkshire-2013-company-analysis 按2013年巴菲特和芒格的方法分析这家公司。"

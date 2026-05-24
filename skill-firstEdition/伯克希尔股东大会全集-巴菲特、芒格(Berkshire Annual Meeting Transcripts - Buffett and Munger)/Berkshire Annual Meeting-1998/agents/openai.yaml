@@ -1,0 +1,4 @@
+interface:
+  display_name: "伯克希尔1998公司分析"
+  short_description: "用1998年伯克希尔股东大会框架分析公司质量、估值与资本配置"
+  default_prompt: "使用 $berkshire-1998-company-analysis 按1998年伯克希尔股东大会框架分析这家公司。"

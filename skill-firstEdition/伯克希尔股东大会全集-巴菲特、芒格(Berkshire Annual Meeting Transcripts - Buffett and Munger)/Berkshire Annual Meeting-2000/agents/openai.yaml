@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2000年伯克希尔股东大会框架分析公司、护城河与估值"
+  default_prompt: "Use $buffett-company-analysis to analyze this company like Buffett and Munger from the 2000 Berkshire meeting."

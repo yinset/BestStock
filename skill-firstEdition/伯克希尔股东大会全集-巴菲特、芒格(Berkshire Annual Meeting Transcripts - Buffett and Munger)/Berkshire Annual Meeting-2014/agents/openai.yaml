@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2014伯克希尔方法分析公司与资本配置"
+  default_prompt: "使用 $buffett-company-analysis 分析这家公司，按2014年伯克希尔股东大会方法输出。"

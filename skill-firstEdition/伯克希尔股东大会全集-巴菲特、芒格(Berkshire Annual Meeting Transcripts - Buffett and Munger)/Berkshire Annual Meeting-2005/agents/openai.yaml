@@ -1,0 +1,7 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2005伯克希尔年会框架分析公司"
+  default_prompt: "Use $buffett-company-analysis 用伯克希尔2005年会框架分析一家公司的质量、价格和风险。"
+
+policy:
+  allow_implicit_invocation: true

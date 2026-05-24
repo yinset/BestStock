@@ -1,0 +1,4 @@
+interface:
+  display_name: "伯克希尔2010公司分析"
+  short_description: "用2010年会提炼的框架评估公司质量、风险与估值"
+  default_prompt: "Use $berkshire-2010-company-analysis to analyze a company using the distilled Berkshire 2010 meeting framework."

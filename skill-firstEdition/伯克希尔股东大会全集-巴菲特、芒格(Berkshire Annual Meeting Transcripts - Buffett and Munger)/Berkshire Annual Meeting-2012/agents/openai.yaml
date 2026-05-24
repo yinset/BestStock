@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2012年伯克希尔年会问答提炼公司分析框架"
+  default_prompt: "Use $buffett-company-analysis to analyze this company using the 2012 Berkshire meeting framework."

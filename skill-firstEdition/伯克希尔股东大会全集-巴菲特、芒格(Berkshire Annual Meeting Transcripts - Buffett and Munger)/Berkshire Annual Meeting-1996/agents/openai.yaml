@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用1996年伯克希尔年会原则评估公司质量、管理层与内在价值"
+  default_prompt: "Use $buffett-company-analysis 用1996年伯克希尔年会框架分析这家公司。"

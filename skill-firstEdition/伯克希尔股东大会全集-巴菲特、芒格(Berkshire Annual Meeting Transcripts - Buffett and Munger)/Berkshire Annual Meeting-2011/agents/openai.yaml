@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析"
+  short_description: "用2011年伯克希尔股东大会精华分析企业质量与价格"
+  default_prompt: "Use $buffett-company-analysis 用巴菲特和芒格的2011年会框架分析这家公司。"
