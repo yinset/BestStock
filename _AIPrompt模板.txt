@@ -1,5 +1,34 @@
+生成skill-FirstEdition（一次性输入不超过50页或200Ktxt）
 根据引用的文件片段，完整分析其内容，凝练出分析公司的方式和精华。生成一个skill。注意skill语言是中文。完整阅读后再压缩成方法论。skill文件夹名称为
-Berkshire Hathaway Shareholder Letters-xxxx-xxxx，其中xxxx-xxxx为引用材料年份范围
-最佳条件：
-txt文本一次性<=200KB
-pdf页数一次性<=35页
+Berkshire Annual Meeting-xxxx，其中xxxx为引用材料年份范围。输出进C:\Users\11825\OneDrive\BestStock\Skill-FirstEdition\伯克希尔股东大会全集-巴菲特、芒格(Berkshire Annual Meeting Transcripts - Buffett and Munger)目录。需要标准化skill
+
+
+
+
+生成Skill-MasteryEdition（batch<=4）
+请根据我引用的多个 FirstEdition skill，完整阅读后合成为一个新的 MasteryEdition skill。
+
+目标：
+提炼一个中文“求同存异”的公司分析 skill。它不是摘要，也不是拼接，而是把这些年份股东信中的方法论压缩成一个可执行的分析框架。
+
+读取规则：
+- 每个引用的 skill 都要完整阅读。
+- 优先读 SKILL.md。
+- 如果没有 SKILL.md，但目录里有带 frontmatter 的 .md 文件，也直接作为有效 skill 使用。
+- 如有 references/source-notes.md、digest 等来源说明，也要读取。
+- 不修改 FirstEdition 源目录。
+
+输出目录：
+C:\Users\11825\OneDrive\BestStock\Skill-MasteryEdition\巴菲特股东信全集-伯克希尔官网(Berkshire Hathaway Shareholder Letters - Official Berkshire Website)
+
+新 skill 文件夹名：
+Berkshire Hathaway Shareholder Letters-xxxx-xxxx
+
+其中 xxxx-xxxx 是本批材料覆盖的年份范围。
+
+输出要求：
+- 生成标准 skill 结构，至少包含 SKILL.md。
+- 必要时可加 references/ 保存年份差异、来源映射和细节。
+- skill 内容必须是中文。
+- SKILL.md 要有合法 YAML frontmatter：name、description。
+此次需要合并的是C:\Users\11825\OneDrive\BestStock\Skill-FirstEdition\巴菲特股东信全集-伯克希尔官网(Berkshire Hathaway Shareholder Letters - Official Berkshire Website)目录中1957-1974的四份skill，在动手前和我确认一下你拿到的四个skill是否正确。

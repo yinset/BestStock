@@ -1,6 +1,6 @@
 # BestStock Investment Skill Project
 
-BestStock is an investment-skill project for value investing research. Its purpose is to distill the wisdom left by classic investment masters into a highly complete, executable, and reusable investment analysis skill; the generation process primarily uses GPT-5.5 xhigh mode and, to a smaller extent, Claude Sonnet 4.6 Adaptive mode.
+BestStock is an investment-skill project for value investing research. Its purpose is to distill the wisdom left by classic investment masters into a highly complete, executable, and reusable investment analysis skill; the generation process primarily uses GPT-5.5 xhigh mode.
 
 The project is not designed to replace human judgment. Its intended system is human-led and screening-assisted: use public stock market interfaces and annual report data to quickly identify companies worth attention, then use the skill to examine those companies deeply from the perspectives of great investors.
 
@@ -15,13 +15,13 @@ The final system should behave as an investment research assistant, not an inves
 
 ## Current Progress
 
-The original source-material collection stage has been completed. The project is currently producing the first batch of initial skills, driven primarily by GPT-5.5 xhigh and, to a smaller extent, Claude Sonnet 4.6 Adaptive, to extract early-stage methodology from the organized source materials. Each close-reading batch keeps the requested page range at around 35 pages to maintain output quality. Because the generation process primarily uses GPT-5.5 xhigh mode and, to a smaller extent, Claude Sonnet 4.6 Adaptive mode, a small number of document names and formats differ slightly.
+The original source-material collection stage has been completed. The project is currently producing the first batch of initial skills, driven primarily by GPT-5.5 xhigh, to extract early-stage methodology from the organized source materials. Each close-reading batch keeps the requested page range at around 35 pages to maintain output quality.
 
 ## Core Idea
 
 The core method is: read completely first, then compress into methodology.
 
-To help the generation process, which primarily uses GPT-5.5 xhigh mode and a smaller amount of Claude Sonnet 4.6 Adaptive mode, understand the original materials accurately, the source documents are split into smaller batches. Most long-form materials are divided into groups of about 35 pages. Some materials are split by their original structure, year, meeting session, or shorter page ranges, such as Berkshire annual letters, Berkshire annual meeting morning and afternoon sessions, and a few 25-page groups.
+To help the generation process, which primarily uses GPT-5.5 xhigh mode, understand the original materials accurately, the source documents are split into smaller batches. Most long-form materials are divided into groups of about 35 pages. Some materials are split by their original structure, year, meeting session, or shorter page ranges, such as Berkshire annual letters, Berkshire annual meeting morning and afternoon sessions, and a few 25-page groups.
 
 Each batch follows these principles:
 
