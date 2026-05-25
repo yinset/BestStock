@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析 2006-2007"
+  short_description: "用2006-2007股东信分析公司质量、护城河与资本配置"
+  default_prompt: "Use $buffett-2006-2007-company-analysis 用巴菲特2006-2007年股东信框架分析这家公司。"

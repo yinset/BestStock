@@ -1,0 +1,7 @@
+interface:
+  display_name: "2017芒格公司分析"
+  short_description: "用2017年DJCO芒格交流框架分析公司"
+  default_prompt: "Use $berkshire-2017-company-analysis to analyze this company with Charlie Munger's 2017 DJCO investor conversation framework."
+
+policy:
+  allow_implicit_invocation: true

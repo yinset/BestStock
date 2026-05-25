@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特股东信1957-1960公司分析"
+  short_description: "用巴菲特1957-1960年信框架分析低估与特殊情形"
+  default_prompt: "Use $berkshire-hathaway-shareholder-letters-1957-1960 用巴菲特1957-1960年合伙人信方法分析这家公司。"

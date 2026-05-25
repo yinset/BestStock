@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特2010-2011公司分析"
+  short_description: "用2010-2011股东信框架分析公司价值与资本配置"
+  default_prompt: "Use $buffett-2010-2011-company-analysis to analyze a company using Buffett 2010-2011 shareholder-letter framework."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特股东信 2016-2017 公司分析"
+  short_description: "用2016-2017年股东信方法分析公司质量与价格"
+  default_prompt: "Use $berkshire-shareholder-letters-2016-2017 以巴菲特2016-2017年股东信方法分析一家公司。"

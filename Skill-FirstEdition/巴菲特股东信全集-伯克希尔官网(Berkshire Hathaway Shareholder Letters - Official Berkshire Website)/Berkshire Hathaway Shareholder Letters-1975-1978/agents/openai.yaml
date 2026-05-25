@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析1975-1978"
+  short_description: "基于1975-1978年股东信的企业质量与估值分析框架"
+  default_prompt: "Use $buffett-1975-1978-company-analysis 用伯克希尔1975-1978年股东信方法分析这家公司。"

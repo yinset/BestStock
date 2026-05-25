@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特公司分析1983-1985"
+  short_description: "用伯克希尔1983-1985年股东信分析公司质量与资本配置"
+  default_prompt: "Use $buffett-1983-1985-company-analysis 用伯克希尔1983-1985年股东信方法分析这家公司。"
