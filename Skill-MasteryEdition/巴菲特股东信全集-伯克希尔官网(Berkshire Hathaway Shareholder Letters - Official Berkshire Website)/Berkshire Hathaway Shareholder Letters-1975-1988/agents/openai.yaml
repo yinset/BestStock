@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特股东信1975-1988公司分析"
+  short_description: "综合巴菲特1975-1988年信分析企业质量、所有者收益与资本配置"
+  default_prompt: "Use $berkshire-hathaway-shareholder-letters-1975-1988 用巴菲特1975-1988年股东信方法分析这家公司。"

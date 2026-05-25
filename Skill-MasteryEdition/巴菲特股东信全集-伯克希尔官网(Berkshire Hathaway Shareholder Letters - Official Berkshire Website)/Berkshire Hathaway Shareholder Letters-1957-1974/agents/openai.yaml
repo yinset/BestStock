@@ -1,0 +1,4 @@
+interface:
+  display_name: "巴菲特股东信1957-1974公司分析"
+  short_description: "综合巴菲特1957-1974年信分析企业、估值与资本配置"
+  default_prompt: "Use $berkshire-hathaway-shareholder-letters-1957-1974 用巴菲特1957-1974年股东信方法分析这家公司。"
